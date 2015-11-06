@@ -1,5 +1,5 @@
-find_duplicates
-===============
+FindDuplicate
+=============
 
 Scans file system for duplicate files. Presents a report in the end
 
